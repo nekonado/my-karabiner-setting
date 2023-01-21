@@ -84,6 +84,23 @@
             ]
           },
           {
+            "description": "「Delete」で画面ロック",
+            "manipulators": [
+              {
+                "from": {
+                  "key_code": "delete_forward"
+                },
+                "to": [
+                  {
+                    "key_code": "q",
+                    "modifiers": ["command", "control"]
+                  }
+                ],
+                "type": "basic"
+              }
+            ]
+          },
+          {
             "description": "「PrtSc」で選択範囲をクリップボードにコピー",
             "manipulators": [
               {
@@ -333,18 +350,6 @@
             },
             {
               "from": {
-                "key_code": "delete_forward"
-              },
-              "to": [
-                {
-                  "software_function": {
-                    "iokit_power_management_sleep_system": {}
-                  }
-                }
-              ]
-            },
-            {
-              "from": {
                 "key_code": "left_command"
               },
               "to": [
@@ -433,18 +438,6 @@
               "to": [
                 {
                   "key_code": "left_control"
-                }
-              ]
-            },
-            {
-              "from": {
-                "key_code": "delete_forward"
-              },
-              "to": [
-                {
-                  "software_function": {
-                    "iokit_power_management_sleep_system": {}
-                  }
                 }
               ]
             },

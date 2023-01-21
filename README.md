@@ -29,7 +29,7 @@
 | Center Button | Enter                          | thumb enter |
 | Print Screen  | Command + Option + Control + 4 | for dev     |
 | Right Control | F12                            | for dev     |
-| Delete        | IO Devise Sleep                | ??          |
+| Delete        | Command + Control + q          | Lock Screen |
 
 #### Combination Rules
 
