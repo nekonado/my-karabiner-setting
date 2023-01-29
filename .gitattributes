@@ -1,4 +1,2 @@
-*.json linguist-language=JSON
-
-* -linguist-vendored
-* -linguist-documentation
+./* -linguist-vendored
+./* -linguist-documentation
