@@ -1,1 +1,4 @@
 *.json linguist-language=JSON
+
+* -linguist-vendored
+* -linguist-documentation
