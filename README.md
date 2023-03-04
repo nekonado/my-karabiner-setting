@@ -7,7 +7,7 @@
 ## Usage
 
 - Mac の`~/.config/karabiner/`配下に設定ファイルを格納して使用
-- 本リポジトリは memo, bkup, web 共有のために使用
+- 本リポジトリは memo, バックアップ, web 共有のために使用
 
 ## Basic Policy
 
@@ -16,7 +16,7 @@
 
 ### ThinkPad TrackPoint Keyboard II
 
-- Bleetooth 接続時に Mac 内蔵キーボードを無効化
+- Bluetooth 接続時に Mac 内蔵キーボードを無効化
 
 #### Simple Rules
 
